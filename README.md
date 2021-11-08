@@ -3,3 +3,4 @@ Repositorio Proyecto G3 Virtual Store del Grupo 03 - Ciclo 4 - Desarrollo Aplica
 Integrantes:
 Juan Fernando Ramírez - Scrum Master
 Alberto Duque Villegas
+Juan Carlos Castro
