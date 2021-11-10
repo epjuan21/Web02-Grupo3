@@ -30,3 +30,7 @@ Se debe crear un archivo `.env` con los siguientes valores:
 ### g3store
 
 En esta carpeta esta el código del Front End, el cual esta realizado en ReactJS. Para iniciar el proyecto en local se puede usar el comando `npm start`
+
+### Descripción
+
+Este proyecto ofrecerá productos y servicios de software de pesaje vehicular y de control de tráfico y recaudo en las estaciones de peajes y pesaje de las vías concesionadas de Colombia y soluciones de software a la medida en el área de transporte y movilidad en general.
