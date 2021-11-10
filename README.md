@@ -14,7 +14,7 @@ Repositorio Proyecto G3 Virtual Store del Grupo 03 - Ciclo 4 - Desarrollo Aplica
 Juan David Triana
 
 ## Instalación
-El proyecto consta de dos carpetas principales, **server** y **g3store**
+El proyecto consta de dos carpetas principales, **server** y **g3store** para BACK END Y FRONT END respectivamente.
 
 ### Server
 El servidor esta realizado en **Mongo**, **Node** y **Express**. Para iniciar el servidor se debe ejecutar el comando `npm start` el servidor arrancará por defecto en el puerto 3000
