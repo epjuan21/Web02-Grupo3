@@ -4,10 +4,10 @@ Repositorio Proyecto G3 Virtual Store del Grupo 03 - Ciclo 4 - Desarrollo Aplica
 
 ### Integrantes:
 
- - Juan Fernando Ramírez - Scrum Master
+ - Juan Fernando Ramírez Vélez
  - Alberto Duque Villegas
- - Juan Carlos Castro
- - Jessit Anaya
+ - Juan Carlos Castro Higuita
+ - Michell Jessit Anaya Alsina
  - Cristian Rozo López
 
 ### Tutor
